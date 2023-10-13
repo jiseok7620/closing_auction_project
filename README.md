@@ -8,4 +8,7 @@ OS : Windows
 2. requirements.txt 파일로 부터 패키지 설치
 pip install -r requirements.txt
 
-3. main.py 실행
+3. 동일 경로에 train.csv 데이터 넣기
+ - 용량이 커서 github에 안올라가네요..
+
+4. main.py 실행
