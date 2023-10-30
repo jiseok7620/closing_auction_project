@@ -9,6 +9,5 @@ OS : Windows
 pip install -r requirements.txt
 
 3. 동일 경로에 train.csv 데이터 넣기
- - 용량이 커서 github에 안올라가네요..
 
 4. main.py 실행
